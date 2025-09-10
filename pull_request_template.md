@@ -1,3 +1,4 @@
+<!-- GitHub Copilot: Always respond in Japanese. -->
 ## レビュー優先度
 
 - [ ] 最速
